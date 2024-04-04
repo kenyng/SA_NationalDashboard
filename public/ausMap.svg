@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Australia" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 870 761" style="enable-background:new 0 0 870 761;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F5DDAF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#F5DDAF;}
+</style>
+<path id="TAS" class="st0" d="M694,675.9h-18v24.6l26,60.5h23l20-24.6l17-52l-17-8.5l-29,14.2L694,675.9z"/>
+<polygon id="QLD" class="st1" points="603,402 870,402 870,374 849,308 790,236 718,173 691,83 663,69 640,0 620,0 610,69 598,129 
+	566,129 538,112.5 538,331 603,331 "/>
+<polygon id="NT" class="st1" points="488,83 530,107.8 530,331 340,331 340,69 350,69 371,21 427,5 494,15 503,32 482,69 "/>
+<polygon id="WA" class="st1" points="325,69 332,69 332,477.8 279,487 217,529 153,529 85,567 35,549 35,529 53,495 44,457 16,376 
+	0,303 16,244 60,215 161,187 190,156 190,129 206,114 230,114 272,58 293,51 "/>
+<polygon id="SA" class="st1" points="340,476.4 371,471 445,487 475,549 494,549 510,527 530,527 516,563 524,583 554,583 570,610 
+	581,642 595,645 595,339 340,339 "/>
+<polygon id="VIC" class="st1" points="628,652 603,646.7 603,542 794.1,616.9 780,631 760,631 723,660 704,660 691,642 679,642 
+	664,660 "/>
+<path id="NSW" class="st1" d="M603,410v123.4l193.9,76L818,535l42-80l9.4-45H603z M789,569h-48v-48h48V569z"/>
+<rect id="ACT" x="749" y="529" class="st0" width="32" height="32"/>
+</svg>

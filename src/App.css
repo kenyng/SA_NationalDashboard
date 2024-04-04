@@ -1,0 +1,28 @@
+.app {
+  display: flex;
+}
+
+.app-text {
+  text-align: center;
+}
+
+.control-panel {
+  width: 200px;
+  padding: 20px;
+  border-right: 1px solid #ccc;
+}
+
+.logo {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.chart-panel {
+  flex: 1;
+  padding: 20px;
+}
